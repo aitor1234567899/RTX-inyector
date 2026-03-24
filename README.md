@@ -30,9 +30,6 @@ Descarga el `.exe` desde este repositorio y ejecútalo directamente.
 
 ---
 
-
----
-
 ## 👨‍💻 Autor
 
 - AITOR
@@ -42,3 +39,5 @@ Descarga el `.exe` desde este repositorio y ejecútalo directamente.
 ## 🌐 Discord
 
 https://discord.gg/7Y5SX52Pwu
+
+---
