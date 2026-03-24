@@ -39,7 +39,7 @@ No se recomienda usar en online.
 
 ## 👨‍💻 Autor
 
-- Tu nombre aquí
+- AITOR
 
 ---
 
