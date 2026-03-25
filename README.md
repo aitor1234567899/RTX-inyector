@@ -41,3 +41,6 @@ Descarga el `.exe` desde este repositorio y ejecútalo directamente.
 https://discord.gg/7Y5SX52Pwu
 
 ---
+👉[PUEDE EN TRAR A OTRO REPOSITORIO NUENTRO ](https://github.com/aitor1234567899/RTX-SERVER-)
+
+---
