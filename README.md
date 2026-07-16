@@ -1,6 +1,5 @@
 # 🧩 DLL Injector GTA V (EXE)
 
-Este proyecto es un **inyector de DLL con interfaz gráfica** pensado principalmente para **GTA V**.
 
 ---
 
