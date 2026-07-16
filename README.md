@@ -1,9 +1,17 @@
-# ATENCIÓN EN LA VERSIÓN LEGACY NO FUNCIONA A UN ESO A UN  ESTA EN DESAROLLO 
----
-# inyector
 # 🧩 DLL Injector GTA V (EXE)
 
 Este proyecto es un **inyector de DLL con interfaz gráfica** pensado principalmente para **GTA V**.
+
+---
+
+## ⚠️ Compatibilidad
+
+✅ Compatible con las dos versiones de GTA V:
+
+- 🟢 **Versión Enhanced **
+- 🟢 **Versión Legacy**
+
+El inyector ya funciona en ambas versiones.
 
 ---
 
@@ -11,6 +19,7 @@ Este proyecto es un **inyector de DLL con interfaz gráfica** pensado principalm
 
 - 🔹 Permite seleccionar un archivo `.dll`
 - 🔹 Detecta automáticamente el proceso de **GTA V**
+- 🔹 Compatible con GTA V Normal y Legacy
 - 🔹 Inyecta la DLL de forma rápida
 - 🔹 Guarda la última DLL usada
 - 🔹 Crea automáticamente una carpeta en Documentos
@@ -29,6 +38,7 @@ Descarga el `.exe` desde este repositorio y ejecútalo directamente.
 1. Abre el programa  
 2. Selecciona tu DLL  
 3. Pulsa en **Inject**  
+4. Espera a que termine el proceso
 
 ---
 
@@ -43,6 +53,5 @@ Descarga el `.exe` desde este repositorio y ejecútalo directamente.
 https://discord.gg/7Y5SX52Pwu
 
 ---
-👉[PUEDE EN TRAR A OTRO REPOSITORIO NUENTRO ](https://github.com/aitor1234567899/RTX-SERVER-)
 
----
+👉 [PUEDES ENTRAR A OTRO REPOSITORIO NUESTRO](https://github.com/aitor1234567899/RTX-SERVER-)
