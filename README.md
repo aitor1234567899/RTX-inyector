@@ -1,5 +1,16 @@
+# ✅ AVISO IMPORTANTE: FALSO POSITIVO
+
+Algunos antivirus pueden detectar el proyecto como una amenaza, pero se trata de un **falso positivo**.
+
+Esto ocurre porque los inyectores de DLL modifican procesos en ejecución y algunos sistemas de seguridad pueden marcarlo por error.
+
+Asegúrate siempre de descargar el proyecto desde este repositorio oficial.
+
+---
+
 # 🧩 DLL Injector GTA V (EXE)
 
+Este proyecto es un **inyector de DLL con interfaz gráfica** pensado principalmente para **GTA V**.
 
 ---
 
@@ -7,10 +18,10 @@
 
 ✅ Compatible con las dos versiones de GTA V:
 
-- 🟢 **Versión Enhanced **
+- 🟢 **Versión Normal**
 - 🟢 **Versión Legacy**
 
-El inyector ya funciona en ambas versiones.
+El inyector ya funciona correctamente en ambas versiones.
 
 ---
 
@@ -36,8 +47,7 @@ Descarga el `.exe` desde este repositorio y ejecútalo directamente.
 
 1. Abre el programa  
 2. Selecciona tu DLL  
-3. Pulsa en **Inject**  
-4. Espera a que termine el proceso
+3. Pulsa en **Inject**
 
 ---
 
